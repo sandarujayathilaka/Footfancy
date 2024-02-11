@@ -11,6 +11,7 @@ Footfansy is an e-commerce application dedicated to selling shoes, featuring an 
 * Payment Gateway
 * Filter Items based on different values
 * Reviews Management
+* Cart Management
   
 ## Technologies Used
 
