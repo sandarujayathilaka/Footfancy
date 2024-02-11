@@ -1,0 +1,37 @@
+{
+  "name": "ecommerce-api",
+  "version": "1.0.0",
+  "description": "NodeJs E-COMMERCE API",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "server": "nodemon server.js",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "API",
+    "E-COMMERCE",
+    "NODEJS",
+    "EXPRESS",
+    "MONGODB",
+    "MONGOOSE",
+    "JWT"
+  ],
+  "author": "Sandaru Jayathilaka",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cloudinary": "^1.41.1",
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "express-async-handler": "^1.2.0",
+    "jsonwebtoken": "^9.0.2",
+    "mongodb": "^6.3.0",
+    "mongoose": "^8.0.3",
+    "multer": "^1.4.5-lts.1",
+    "multer-storage-cloudinary": "^4.0.0",
+    "nodemon": "^3.0.2",
+    "stripe": "^14.10.0"
+  }
+}
