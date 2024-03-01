@@ -1,7 +1,8 @@
 # Footfancy
 
 Footfansy is an e-commerce application dedicated to selling shoes, featuring an admin panel for management purposes.
-## LIVE LINK - footfancy.netlify.app/
+
+## LIVE LINK - [footfancy.netlify.app](https://footfancy.netlify.app/)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
